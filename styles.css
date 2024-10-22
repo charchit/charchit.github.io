@@ -1,0 +1,15 @@
+/* Example to enhance the navbar */
+.navbar {
+    background-color: #2C3E50;
+    border: none;
+}
+
+.navbar a {
+    color: #ECF0F1 !important;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    color: #ECF0F1 !important;
+}

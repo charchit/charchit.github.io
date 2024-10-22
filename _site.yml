@@ -3,5 +3,18 @@ output_dir: "."
 navbar:
   title: "Zero Gravity Test"
   left:
+    - text: "Home"
+      href: index.html
     - text: "Zero-gravity test"
       href: https://news.engineering.iastate.edu/2022/01/27/cyclone-engineers-take-to-the-sky-for-advanced-manufacturing-research
+    - text: "Projects"
+      href: projects.html
+    - text: "About"
+      href: about.html
+    - text: "Contact"
+      href: contact.html
+footer:
+  left: "© 2024 Charchit"
+  right: "Powered by RStudio | Bootstrap"
+include:
+  after_body: styles.css

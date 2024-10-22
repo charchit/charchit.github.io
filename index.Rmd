@@ -1,9 +1,10 @@
 ---
 title: "Charchit's Website"
+output: html_document
 ---
 
-Hello, Thank you for visiting Charchit's profile website!
+Hello, Thank you for visiting Charchit's profile website! I am a researcher working in advanced manufacturing and engineering technologies. I recently participated in a zero-gravity test as part of cutting-edge manufacturing research.
 
 I will be show casing some of the work I have done in my professional life.
 
-One of the recent work was published here https://news.engineering.iastate.edu/2022/01/27/cyclone-engineers-take-to-the-sky-for-advanced-manufacturing-research/
+One of the recent work was published here <https://news.engineering.iastate.edu/2022/01/27/cyclone-engineers-take-to-the-sky-for-advanced-manufacturing-research/>
