@@ -7,4 +7,7 @@ Hello, Thank you for visiting Charchit's profile website! I am a researcher work
 
 I will be show casing some of the work I have done in my professional life.
 
-One of the recent work was published here <https://news.engineering.iastate.edu/2022/01/27/cyclone-engineers-take-to-the-sky-for-advanced-manufacturing-research/>
+One of the recent work was published [here:](<https://news.engineering.iastate.edu/2022/01/27/cyclone-engineers-take-to-the-sky-for-advanced-manufacturing-research/>).
+
+You can find my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=13XOYYYAAAAJ&hl=en).
+You can download my [CV here](cv.pdf).
